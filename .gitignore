@@ -1,0 +1,16 @@
+# Antigravity / agentes locais
+**/.agents/
+**/.ag-kit-backups/
+
+# Dependências
+**/node_modules/
+
+# Variáveis e segredos
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
